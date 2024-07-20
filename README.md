@@ -1,3 +1,4 @@
+![IMG_2697](https://github.com/user-attachments/assets/14a5becb-7485-429b-9267-68305fe5cd3b)
 <div align="center">
 
 <a href='https://www.pingcap.com/?utm_source=github&utm_medium=tidb'>
